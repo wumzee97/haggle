@@ -39,10 +39,14 @@
   h3 {
     letter-spacing: 0px;
     color: #ffffff;
+    font: normal normal bold 30px/36px Rubik;
+
   }
   p {
     letter-spacing: 0px;
     color: #ffffff;
+    font: normal normal 300 16px/28px Rubik;
+
   }
 }
 .px-18 {

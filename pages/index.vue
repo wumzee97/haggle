@@ -48,7 +48,7 @@
 </template>
 
 <script>
-import { VueTelInputVuetify } from 'vue-tel-input-vuetify'
+import VueTelInputVuetify from 'vue-tel-input-vuetify/lib/vue-tel-input-vuetify'
 export default {
   layout: 'auth',
   components: {
@@ -71,6 +71,8 @@ h4 {
   text-align: left;
   letter-spacing: 0px;
   color: #000000;
+  font: normal normal bold 25px/29px Rubik;
+
 }
 p.small {
   text-align: left;
